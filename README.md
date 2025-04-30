@@ -39,7 +39,7 @@ The Public APIs repository is manually curated by community members like you and
 <br />
 
 ## Index
-
+* [Anime](#ai)
 * [Animals](#animals)
 * [Anime](#anime)
 * [Anti-Malware](#anti-malware)
@@ -127,6 +127,62 @@ API | Description | Auth | HTTPS | CORS
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+### AI
+| **API**                          | **Description**                                       | **Auth**   | **HTTPS** | **CORS** |
+|-----------------------------------|-------------------------------------------------------|------------|-----------|----------|
+| **OpenAI**                        | Language models for various NLP tasks                 | API Key   | Yes       | Yes      |
+| **Google Cloud Vision**           | Image recognition and analysis                        | API Key   | Yes       | Yes      |
+| **IBM Watson**                    | AI-powered conversational agents and NLP              | API Key   | Yes       | Yes      |
+| **Microsoft Azure Cognitive Services** | AI services for vision, speech, language, and decision | API Key   | Yes       | Yes      |
+| **Clarifai**                      | Visual recognition API                                | API Key   | Yes       | Yes      |
+| **Dialogflow**                     | Google’s chatbot development platform                 | API Key   | Yes       | Yes      |
+| **TensorFlow.js**                 | JavaScript library for machine learning               | None      | Yes       | Yes      |
+| **Aylien**                        | Natural language processing and text analysis         | API Key   | Yes       | Yes      |
+| **Amazon Rekognition**            | Image and video analysis                              | API Key   | Yes       | Yes      |
+| **DeepAI**                        | AI for image recognition, NLP, and other tasks        | API Key   | Yes       | Yes      |
+| **AssemblyAI**                    | Speech-to-text and audio intelligence                 | API Key   | Yes       | Yes      |
+| **Replicate**                      | Model execution for generative AI tasks               | API Key   | Yes       | Yes      |
+| **BigML**                         | Machine learning API for predictive models            | API Key   | Yes       | Yes      |
+| **Cortexica**                     | Computer vision API                                   | API Key   | Yes       | Yes      |
+| **Ximilar**                       | Visual AI, computer vision models                     | API Key   | Yes       | Yes      |
+| **MonkeyLearn**                   | Text analysis and NLP models                          | API Key   | Yes       | Yes      |
+| **Haystack**                      | NLP and semantic search API                           | API Key   | Yes       | Yes      |
+| **Copy.ai**                       | AI-powered content generation for marketing           | API Key   | Yes       | Yes      |
+| **Vervent**                       | AI-powered fraud prevention                           | API Key   | Yes       | Yes      |
+| **AI21 Labs**                     | NLP API for large language models                     | API Key   | Yes       | Yes      |
+| **Slyce**                         | Barcode recognition API                               | API Key   | Yes       | Yes      |
+| **Fritz AI**                      | Custom AI model creation for mobile apps              | API Key   | Yes       | Yes      |
+| **Peltarion**                     | Platform for operationalizing AI models               | API Key   | Yes       | Yes      |
+| **Twilio**                        | AI-driven SMS and communication APIs                  | API Key   | Yes       | Yes      |
+| **Indico**                        | AI for text analysis, image recognition               | API Key   | Yes       | Yes      |
+| **Algorithmia**                   | Marketplace for machine learning models               | API Key   | Yes       | Yes      |
+| **Face++**                        | Facial recognition API                                | API Key   | Yes       | Yes      |
+| **Zebra Medical Vision**          | Medical imaging AI API                                | API Key   | Yes       | Yes      |
+| **Speechmatics**                  | Speech-to-text API                                    | API Key   | Yes       | Yes      |
+| **Google Cloud Natural Language** | NLP API for text analysis                             | API Key   | Yes       | Yes      |
+| **Receptiviti**                   | Personality analytics API                             | API Key   | Yes       | Yes      |
+| **DeepL**                         | AI-powered translation API                            | API Key   | Yes       | Yes      |
+| **Slyce**                         | AI-powered barcode scanning                           | API Key   | Yes       | Yes      |
+| **XAPI.ai**                       | AI-driven data automation and integration             | API Key   | Yes       | Yes      |
+| **Wit.ai**                        | Natural language processing for applications          | API Key   | Yes       | Yes      |
+| **Snips**                         | AI-based voice assistant                              | API Key   | Yes       | Yes      |
+| **Brain.ai**                      | AI-driven decision-making API                         | API Key   | Yes       | Yes      |
+| **Lobe**                          | AI model training made easy                           | None      | Yes       | Yes      |
+| **Proxem**                        | Text mining and NLP API                               | API Key   | Yes       | Yes      |
+| **Whisper**                       | OpenAI speech-to-text API                             | API Key   | Yes       | Yes      |
+| **Turing**                        | AI talent sourcing platform                           | API Key   | Yes       | Yes      |
+| **Quillbot**                      | AI-powered paraphrasing tool                          | API Key   | Yes       | Yes      |
+| **ChatterBot**                    | Machine learning-based conversational AI              | None      | Yes       | Yes      |
+| **Lattice**                       | AI-powered recommendation engine                      | API Key   | Yes       | Yes      |
+| **Docparser**                     | Document parsing with AI                              | API Key   | Yes       | Yes      |
+| **Custom Vision**                 | Microsoft Azure's AI-based image classification       | API Key   | Yes       | Yes      |
+| **Vico**                          | AI-based video editing API                            | API Key   | Yes       | Yes      |
+| **Accenture AI**                  | AI-driven business solutions                          | API Key   | Yes       | Yes      |
+| **Voysis**                        | AI-powered voice recognition                          | API Key   | Yes       | Yes      |
+| **Otter.ai**                      | AI transcription service                              | API Key   | Yes       | Yes      |
+| **MonkeyLearn**                   | Text classification and analysis                       | API Key   | Yes       | Yes      |
+| **Parse.ly**                       | AI-powered content recommendation                     | API Key   | Yes       | Yes      |
+| **DataRobot**                     | Automated machine learning platform                   | API Key   | Yes       | Yes      |
 
 ### Anime
 API | Description | Auth | HTTPS | CORS |
